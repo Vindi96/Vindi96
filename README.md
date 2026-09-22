@@ -75,19 +75,6 @@
 ---
 
 
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vindi96&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vindi96" alt="GitHub Streak" />
-</p>
-
----
-
 ### 🌐 Connect with Me
 
 <p align="left">
